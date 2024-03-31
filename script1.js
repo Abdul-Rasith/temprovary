@@ -1,2 +1,2 @@
-var number = 12343;
-console.log(number)
+let num = 12343;
+console.log(num)
